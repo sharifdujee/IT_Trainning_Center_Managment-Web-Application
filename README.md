@@ -1,4 +1,4 @@
 # IT_Trainning_Center_Managment-Web-Application
 # Angular Frontend
-# Spring Boot Android
+# Spring Boot Backend
 # Database MySQL
